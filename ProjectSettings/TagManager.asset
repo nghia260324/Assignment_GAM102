@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Ground
+  - Coin
+  - Collider
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - Ground
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Bgr-1
+    uniqueID: 822544035
+    locked: 0
+  - name: Bgr-2
+    uniqueID: 624499007
+    locked: 0
+  - name: Bgr-3
+    uniqueID: 4057661203
+    locked: 0
+  - name: Bgr-4
+    uniqueID: 4064247219
+    locked: 0
+  - name: Bgr-5
+    uniqueID: 4097628891
+    locked: 0
+  - name: BehindGround
+    uniqueID: 3435699577
+    locked: 0
+  - name: MidGround
+    uniqueID: 2233437487
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 20633109
+    locked: 0
+  - name: Effect
+    uniqueID: 3664290953
+    locked: 0
+  - name: FrontGround
+    uniqueID: 4041508475
+    locked: 0
+  - name: FrontGround2
+    uniqueID: 4092440727
+    locked: 0

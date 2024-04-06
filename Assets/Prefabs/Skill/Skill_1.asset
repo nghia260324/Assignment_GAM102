@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d31c88dd2b3cc494b9956ebca20c391b, type: 3}
+  m_Name: Skill_1
+  m_EditorClassIdentifier: 
+  id: 0
+  skillName: Skill 1
+  skillPrefabs: {fileID: 3136813695458481944, guid: 174fc1c7f53b23245b5839adbf27a686, type: 3}
+  effectPrefabs: {fileID: 2157581094552298791, guid: f84b59052d3295c4c816879a2fabebc3, type: 3}
+  damage: 2
+  cooldownTime: 3
